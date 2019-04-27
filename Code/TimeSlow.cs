@@ -37,3 +37,4 @@ public class TimeSlow : MonoBehaviour {
   
  
 }  
+//本篇时间控制代码转载自网络，作者不详
